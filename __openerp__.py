@@ -23,7 +23,7 @@
     "summary": """
 	    Send stock picking by email
 	""",
-	"description": """
+    "description": """
         This module allows you to send the picking order report by email
     """
     "version": "1.0",
